@@ -1,3 +1,8 @@
 Ons verhaal begint hier gezamenlijk.
 We sijpelen langzaam terug in de tijd, naar landelijk Frankrijk, 1964. Daar wacht ons een onverwacht verhaal over het maken van appelmoes.
+<<<<<<< HEAD
 Maar niet zomaar appelmoes.. 
+=======
+
+Yeah! Appelmoes, wie wil dat nou niet maken?!
+>>>>>>> e35733c5db52b28c3b13cf1adcf125e0743b528c
